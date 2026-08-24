@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&logo=github&style=for-the-badge&color=24292e" alt="GitHub Followers" />
+  <a href="https://github.com/Maxigon87?tab=followers">
+    <img src="https://img.shields.io/github/followers/Maxigon87?label=Seguidores&logo=github&style=for-the-badge&color=24292e" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/TU_USUARIO?tab=repositories">
-    <img src="https://img.shields.io/github/stars/TU_USUARIO?label=Estrellas&logo=github&style=for-the-badge&color=e3b341" alt="GitHub Stars" />
+  <a href="https://github.com/Maxigon87?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Maxigon87?label=Estrellas&logo=github&style=for-the-badge&color=e3b341" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -56,9 +56,9 @@ Desarrollador de software enfocado en crear aplicaciones que resuelven problemas
 
 <p align="left">
   <!-- Tarjeta de Estadísticas Generales -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxigon87&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" alt="GitHub Stats" />
   <!-- Tarjeta de Lenguajes Más Usados -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&locale=es&hide=html" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxigon87&layout=compact&theme=tokyonight&locale=es&hide=html" alt="Top Languages" />
 </p>
 
 ---
